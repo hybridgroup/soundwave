@@ -1,0 +1,24 @@
+{
+  "name": "soundwave",
+  "version": "0.0.1",
+  "description": "IRC echo bot for Slack",
+  "main": "lib/main.js",
+  "author": "The Hybrid Group <cylonjs@hybridgroup.com>",
+
+  "contributors": [
+    "Andrew Stewart <andrew@hybridgroup.com>"
+  ],
+
+  "license": "Apache 2.0",
+
+  "dependencies": {
+    "irc": "~0.3.7",
+    "lodash": "~2.4.1",
+    "restler": "~3.2.2",
+    "dotenv": "~0.4.0"
+  },
+
+  "engines" : {
+    "node" : ">= 0.10.20"
+  }
+}
