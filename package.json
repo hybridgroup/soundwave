@@ -5,6 +5,11 @@
   "main": "lib/main.js",
   "author": "The Hybrid Group <cylonjs@hybridgroup.com>",
 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hybridgroup/soundwave"
+  },
+
   "contributors": [
     "Andrew Stewart <andrew@hybridgroup.com>"
   ],
@@ -13,7 +18,6 @@
 
   "dependencies": {
     "irc": "~0.3.7",
-    "lodash": "~2.4.1",
     "restler": "~3.2.2",
     "dotenv": "~0.4.0"
   },
